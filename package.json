@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-taro-vue3-ts",
+  "version": "1.0.0",
+  "description": "ESLint + Prettier for Taro3 + Vue3 + typescript",
+  "main": "index.js",
+  "keywords": [
+    "eslint",
+    "taro"
+  ],
+  "author": "bigmeow<running@vip.163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.30.0",
+    "@typescript-eslint/parser": "^4.30.0",
+    "@vue/eslint-config-prettier": "^6.0.0",
+    "@vue/eslint-config-typescript": "^7.0.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-vue": "^7.17.0"
+  },
+  "peerDependencies": {
+    "eslint": "7.x"
+  }
+}
