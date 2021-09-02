@@ -4,7 +4,7 @@
 
 安装
 ```bash
-npm i eslint@7 eslint-config-taro-vue3-ts -D
+npm i eslint@7 prettier@2 eslint-config-taro-vue3-ts -D
 ```
 
 配置 `.eslintrc.js` 文件：
