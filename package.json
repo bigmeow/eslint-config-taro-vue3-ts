@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-taro-vue3-ts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ESLint + Prettier for Taro3 + Vue3 + typescript",
   "main": "index.js",
   "keywords": [
